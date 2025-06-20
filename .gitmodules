@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "xxdi"]
 	path = xxdi
-	url = https://github.com/cran/xxdi
+	url = https://github.com/nilabhrardas/xxdi
